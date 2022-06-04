@@ -16,7 +16,7 @@ In this task, we use an open-sourced semantic segmentation model - "DeepLab v3" 
 
 The changes are:
 
-Add `mrcnn_model.pth` to folder pretrained_models.
+Add [mrcnn_model.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/mrcnn_model.pth) to folder pretrained_models.
 
 ## The Structure of this Repo
 
