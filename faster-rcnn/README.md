@@ -4,7 +4,7 @@ Since we cannot upload large files to GitHub, we leave out some large images, th
 
 The changes are:
 
-Add [frcnn_modelA.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelA.pth), [frcnn_modelB.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelB.pth), [frcnn_modelC.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelC.pth) to folder logs.
+Add [frcnn_modelA.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelA.pth), [frcnn_modelB.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelB.pth), [frcnn_modelC.pth](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelC.pth) to folder logs.
 
 Add [mask_rcnn_pretrained_backbone.pth](https://github.com/open-mmlab/mmdetection/tree/master/configs/mask_rcnn) to folder model_data.
 
@@ -75,9 +75,9 @@ Add the VOC datasets to VOCdevkit (not provided).
 
 | model                                                        | backbone                         | mAP0.5 |
 | ------------------------------------------------------------ | -------------------------------- | ------ |
-| [model A](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelA.pth) | ResNet-50 Random Initialized     | 58.17  |
-| [model B](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelB.pth) | ResNet-50 Pretrained on ImageNet | 80.39  |
-| [Model C](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/task2/frcnn_modelC.pth) | ResNet-50 Mask R-CNN's Backbone  | 81.11  |
+| [model A](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelA.pth) | ResNet-50 Random Initialized     | 58.17  |
+| [model B](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelB.pth) | ResNet-50 Pretrained on ImageNet | 80.39  |
+| [Model C](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/download/publish/frcnn_modelC.pth) | ResNet-50 Mask R-CNN's Backbone  | 81.11  |
 
 ## Reference
 
