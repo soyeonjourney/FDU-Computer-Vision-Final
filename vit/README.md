@@ -43,3 +43,6 @@ Note: CIFAR-100 dataset will be downloaded automatically the first time the trai
 | ViT for small datasets        | 69.41       | 89.88         |
 | ViT (ImageNet-21K pretrained) | 91.80       | 98.67         |
 
+## Reference
+
+1. [ViT-pytorch](https://github.com/lucidrains/vit-pytorch): Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch.
