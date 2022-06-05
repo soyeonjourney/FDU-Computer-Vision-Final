@@ -2,6 +2,8 @@
 
 This is the final assignment of DATA130051.01 Computer Vision.
 
+The driving videos and our trained models of this project are available here: [Videos](https://drive.google.com/drive/folders/1iFgFBGFRjPXXF57c9PZRKXVIl0Xgvkqb?usp=sharing) [Trained Models](https://github.com/Tequila-Sunrise/FDU-Computer-Vision-Final/releases/tag/publish).
+
 In the first part of the project, we test an open sourced Deeplab v3 model trained on the Cityscapes dataset on a driving video, and the result video is shown in the link provided below.
 
 In the second part of the project, we train three Faster R-CNN models on the VOC 2007 and 2012 datasets, and the best one uses the
