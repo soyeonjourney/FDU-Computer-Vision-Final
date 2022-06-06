@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Then modify `train.sh` and run the command below
 
 ```shell
-nohup bash train.py > nohup.out &
+nohup bash train.sh > nohup.out &
 ```
 
 Note: CIFAR-100 dataset will be downloaded automatically the first time the training is performed.
